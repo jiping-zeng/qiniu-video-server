@@ -6,7 +6,7 @@ VidBurst（结合了"vid"和"burst"，意为视频和瞬间的结合），一个
 
 ## 运行配置
 
-启动服务需要一些中间件
+启动服务需要一些中间件y
 
 + mongodb
 + elasticsearch
